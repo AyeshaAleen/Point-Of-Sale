@@ -1,0 +1,41 @@
+c:\users\ayesha\documents\visual studio 2013\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+c:\users\ayesha\documents\visual studio 2013\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+c:\users\ayesha\documents\visual studio 2013\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+c:\users\ayesha\documents\visual studio 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmMainScreen.resources
+c:\users\ayesha\documents\visual studio 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmaboutpos.resources
+c:\users\ayesha\documents\visual studio 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+c:\users\ayesha\documents\visual studio 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.Cache
+c:\users\ayesha\documents\visual studio 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+c:\users\ayesha\documents\visual studio 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
+c:\users\ayesha\documents\visual studio 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmdefinecategory.resources
+c:\users\ayesha\documents\visual studio 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmproduct.resources
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmclock.resources
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmlogin.resources
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmsplash.resources
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmSearchCategory.resources
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmSeachProduct.resources
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmSupplier.resources
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmsearchsupplier.resources
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmRecordPurchase.resources
+C:\Users\Ayesha\Documents\Visual Studio 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csprojResolveAssemblyReference.cache
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csprojAssemblyReference.cache
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmMainScreen.resources
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmaboutpos.resources
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmclock.resources
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmdefinecategory.resources
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmlogin.resources
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmproduct.resources
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmRecordPurchase.resources
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmSeachProduct.resources
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmSearchCategory.resources
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmsearchsupplier.resources
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmsplash.resources
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.frmSupplier.resources
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.cache
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.CoreCompileInputs.cache
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+C:\Ayesha\study\visual studio project 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
